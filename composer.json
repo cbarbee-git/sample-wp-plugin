@@ -1,0 +1,10 @@
+{
+    "name": "cbarbee-git/sample-wp-plugin",
+    "description": "Chad's Custom WP Plugin",
+    "version": "1.0",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0",
+        "johnpbloch/wordpress-core": "5.4.2"
+    }
+}
